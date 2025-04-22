@@ -44,3 +44,34 @@ You don’t have to ever use `eject`. The curated feature set is suitable for sm
 You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
 
 To learn React, check out the [React documentation](https://reactjs.org/).
+
+
+# Employee Management System
+
+## Description
+
+This is an Employee Management System built using React and React-Bootstrap, with form validation handled by Formik and Yup. The application allows users to manage employee records, including creating, editing, and viewing employee details. The project leverages Bootstrap components for the UI and integrates a modal for adding and editing employee details.
+
+## Features
+
+- **Employee CRUD Operations**: Users can create, edit, and view employee information.
+- **Validation**: Form fields are validated using Yup, ensuring correct data entry.
+- **Responsive UI**: Built with React-Bootstrap, providing a mobile-friendly design.
+- **Modal Popup**: For creating and editing employee records in a user-friendly modal interface.
+- **Dynamic Forms**: Forms adjust based on whether the user is creating or editing an employee record.
+- **Error Handling**: Immediate feedback for invalid inputs with error messages displayed dynamically.
+
+## Tech Stack
+
+- **React**: Frontend JavaScript library for building user interfaces.
+- **React-Bootstrap**: Bootstrap components for React to easily build a responsive UI.
+- **Formik**: A library for handling form state and validation in React.
+- **Yup**: A JavaScript schema builder for form validation.
+
+## Installation
+
+Follow these steps to set up the project locally:
+
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/Monisha09112001/HRMS.git
